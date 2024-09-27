@@ -1,5 +1,6 @@
 # 💫 About Me:
 im a student at kssem bangalore
+affiliated visweswarya technological university belagavi
 
 
 ## 🌐 Socials:
